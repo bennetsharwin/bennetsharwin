@@ -1,7 +1,7 @@
-- 👋 Hi, I’m bennetsharwin
-- 👀 I’m interested in python html css and php
-- 🌱 I’m currently learning html css
-- 💞️ I’m looking forward to be a web devoloper
+- 👋 Hi, My name is Bennet Sharwin. Im 15 years old.
+- 👀 I love python, Web Devolopment, Hacking,  CyberSecuirity etc.
+- 🌱 I’m currently Learning New thing.
+- 💞️ I'll post all projects i do in my repos.
 - 📫 reach me bennetsharwin76@gmail.com
 
 <!---
